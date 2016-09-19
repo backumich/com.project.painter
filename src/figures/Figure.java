@@ -6,5 +6,11 @@ public interface Figure {
     double setWidth(double width);
     double getWidth();
 
+    double setPointX(double pointX);
 
+    double getPointX();
+
+    double setPointY(double pointY);
+
+    double getPointY();
 }
